@@ -4,10 +4,13 @@ TEdistribute is a tool for gene ontology enrichment analyses on transposable ele
 
 ### Dependencies 
 
+One code to find them all
+http://doua.prabi.fr/software/one-code-to-find-them-all
+https://mobilednajournal.biomedcentral.com/articles/10.1186/1759-8753-5-13
 
-
-
-
+GOATOOLS
+https://github.com/tanghaibao/goatools
+https://www.nature.com/articles/s41598-018-28948-z
 
 ### Workflow
 
