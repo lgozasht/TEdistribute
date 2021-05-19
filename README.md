@@ -4,13 +4,31 @@ TEdistribute is a tool for gene ontology enrichment analyses on transposable ele
 
 ### Dependencies 
 
-One code to find them all
+"One code to find them all"
 http://doua.prabi.fr/software/one-code-to-find-them-all
 https://mobilednajournal.biomedcentral.com/articles/10.1186/1759-8753-5-13
 
 GOATOOLS
 https://github.com/tanghaibao/goatools
 https://www.nature.com/articles/s41598-018-28948-z
+
+### Installation
+
+You can run the install script which contains the following or download each requirement on your own.
+
+```
+
+#Download "One code to find them all"
+wget http://doua.prabi.fr/software/onecodetofindthemall_data/Onecodetofindthemall.zip
+unzip Onecodetofindthemall.zip
+
+#Download goatools and install dependencies
+git clone https://github.com/tanghaibao/goatools.git
+pip install --user goatools
+pip install --user statsmodels
+
+
+```
 
 ### Workflow
 
