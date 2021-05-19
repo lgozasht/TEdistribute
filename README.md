@@ -11,4 +11,10 @@ TEdistribute is a tool for gene ontology enrichment analyses on transposable ele
 
 ### Workflow
 
-perl /n/home11/lgozashti/tools/Onecodetofindthemall/build_dictionary.pl --unknown --rm Ppol_1.3.3.chromosomes-unplaced_scaffolds.fasta.repeatmasker_filtered.out
+```
+perl ./tools/Onecodetofindthemall/build_dictionary.pl --unknown --rm repeat_masker.out.filtered > ltr_dic.out
+```
+
+```
+perl tools/Onecodetofindthemall/one_code_to_find_them_all.pl --strict --unknown --rm repeat_masker.out.filtered  --ltr ltr_dic.ou --fasta assembly.fasta
+```
