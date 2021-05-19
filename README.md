@@ -18,3 +18,11 @@ perl ./tools/Onecodetofindthemall/build_dictionary.pl --unknown --rm repeat_mask
 ```
 perl tools/Onecodetofindthemall/one_code_to_find_them_all.pl --strict --unknown --rm repeat_masker.out.filtered  --ltr ltr_dic.ou --fasta assembly.fasta
 ```
+
+```
+makeGOannotation.py
+```
+
+```
+associateTEs.py
+```
