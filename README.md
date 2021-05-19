@@ -4,3 +4,11 @@ TEdistribute is a tool for gene ontology enrichment analyses on transposable ele
 
 ### Dependencies 
 
+
+
+
+
+
+### Workflow
+
+perl /n/home11/lgozashti/tools/Onecodetofindthemall/build_dictionary.pl --unknown --rm Ppol_1.3.3.chromosomes-unplaced_scaffolds.fasta.repeatmasker_filtered.out
