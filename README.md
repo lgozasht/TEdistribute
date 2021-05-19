@@ -47,3 +47,5 @@ makeGOannotation.py
 ```
 associateTEs.py
 ```
+
+two tailed association when on two species, then parse output
