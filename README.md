@@ -48,7 +48,9 @@ makeGOannotation.py
 associateTEs.py
 ```
 
-two tailed association when on two species, then parse output
+-two tailed association when on two species, then parse output
+
+-integrate GREAT https://www.nature.com/articles/nbt.1630
 
 ### Reference
 in progress
