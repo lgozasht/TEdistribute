@@ -48,9 +48,16 @@ makeGOannotation.py
 associateTEs.py
 ```
 
--two tailed association when on two species, then parse output
+```
+runAll.py
+```
 
--integrate GREAT https://www.nature.com/articles/nbt.1630
+```
+filter_results.py
+```
+
+
+
 
 ### Reference
 in progress
