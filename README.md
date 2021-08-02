@@ -27,8 +27,14 @@ git clone https://github.com/tanghaibao/goatools.git
 pip install --user goatools
 pip install --user statsmodels
 
+#download obo file
+wget http://geneontology.org/ontology/go-basic.obo
+
 
 ```
+
+#download gaf file
+http://current.geneontology.org/products/pages/downloads.html
 
 ### Workflow
 
